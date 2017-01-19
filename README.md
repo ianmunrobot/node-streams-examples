@@ -26,3 +26,5 @@
 - longhipster.txt - a longer chunk of hipster ipsum that should result in at least 2 chunks when read from a stream
 
 Repo created to accompany a tech talk at <a href="https://www.fullstackacademy.com/">Fullstack Academy January 2017</a>
+
+Interactive slides can be viewed on <a href="https://ianmunrobot.github.io/node-streams-examples/">Github Pages</a>
