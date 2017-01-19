@@ -1,4 +1,5 @@
 // simple cat clone to output the contents of a file and denote chunk changes
+// usage: node fileReader.js <filepath>
 
 const http = require('http');
 const fs = require('fs');

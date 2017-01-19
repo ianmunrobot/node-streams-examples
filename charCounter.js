@@ -1,4 +1,5 @@
 // simple process to count chars in a text file and denote chunk changes
+// usage: node charCounter.js <filepath>
 
 const http = require('http');
 const fs = require('fs');

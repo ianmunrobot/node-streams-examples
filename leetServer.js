@@ -1,5 +1,5 @@
 // simple server for replacing text with basic leetspeak
-// usage: start file with node emojiServer.js <port#>
+// usage: start server with node emojiServer.js <port#>
 // post text files to localhost:port, responses will include the transformed data
 
 const http = require('http');
